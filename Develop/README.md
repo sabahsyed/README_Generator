@@ -1,34 +1,35 @@
 
     # README Generator
     ## License
-    https://img.shields.io/apm/l/vim-mode
+    ![GitHub license] (https://img.shields.io/pypi/l/Django)
+    undefined
     
      ## GitHub UserName
-      a 
+       
     
      ### User Email
-     a
+     
     
     ## Project Title
-    a
+    
     ### Project Description
-    a
+    
     ### Project URL
-    a
+    
     
     ## Table of contents
      
      ## Installation
     
      To install necessary dependencies, run the following command:
-    a
+    npm i 
     
     ​
     ## Usage
     ​
     ​
     ## License
-    ​This project is licensed under the https://img.shields.io/apm/l/vim-mode license.
+    ​This project is licensed under the https://img.shields.io/pypi/l/Django license.
       
     ## Contributing
     ​
@@ -39,5 +40,6 @@
     ​
     ## Questions
     ​
-    If you have any questions about the repo, open an issue or contact a directly at a.
+    If you have any questions about the repo, open an issue or contact directly at [Sabah Syed GitHub URL] "https://github.com/sabahsyed"
+    [Sabah Syed Github Avatar] "https://avatars0.githubusercontent.com/u/58546604?v=4"
     

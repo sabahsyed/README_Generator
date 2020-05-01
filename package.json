@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/sabahsyed/README_Generator#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "inquirer": "^7.1.0"
   }
 }
