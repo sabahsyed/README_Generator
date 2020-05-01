@@ -1,7 +1,7 @@
 
     # README Generator
     ## License
-    ![GitHub license] (https://img.shields.io/pypi/l/Django)
+    ![GitHub license] (https://img.shields.io/cpan/l/Config-Augeas)
     undefined
     
      ## GitHub UserName
@@ -18,6 +18,19 @@
     
     
     ## Table of contents
+
+    * [Installation]( npm i )
+    ​
+    * [Usage](#usage)
+    ​
+    * [License](#license)
+    ​
+    * [Contributing](#contributing)
+    ​
+    * [Tests](#tests)
+    ​
+    * [Questions](#questions)
+
      
      ## Installation
     
@@ -29,7 +42,7 @@
     ​
     ​
     ## License
-    ​This project is licensed under the https://img.shields.io/pypi/l/Django license.
+    ​This project is licensed under the https://img.shields.io/cpan/l/Config-Augeas license.
       
     ## Contributing
     ​
@@ -41,5 +54,5 @@
     ## Questions
     ​
     If you have any questions about the repo, open an issue or contact directly at [Sabah Syed GitHub URL] "https://github.com/sabahsyed"
-    [Sabah Syed Github Avatar] "https://avatars0.githubusercontent.com/u/58546604?v=4"
+    [Sabah Syed Github Avatar] ("https://avatars0.githubusercontent.com/u/58546604?v=4"
     

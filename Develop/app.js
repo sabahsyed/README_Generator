@@ -108,6 +108,19 @@ function generateREADME(answers) {
     ${answers.projectURL}
     
     ## Table of contents
+
+    * [Installation](#installation)
+    ​
+    * [Usage](#usage)
+    ​
+    * [License](#license)
+    ​
+    * [Contributing](#contributing)
+    ​
+    * [Tests](#tests)
+    ​
+    * [Questions](#questions)
+
      
      ## Installation
     
@@ -131,7 +144,7 @@ function generateREADME(answers) {
     ## Questions
     ​
     If you have any questions about the repo, open an issue or contact directly at [Sabah Syed GitHub URL] "https://github.com/sabahsyed"
-    [Sabah Syed Github Avatar] "https://avatars0.githubusercontent.com/u/58546604?v=4"
+    [Sabah Syed Github Avatar] ("https://avatars0.githubusercontent.com/u/58546604?v=4"
     `;
   }
   
